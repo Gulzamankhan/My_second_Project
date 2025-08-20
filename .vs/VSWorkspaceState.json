@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\test_project",
+    "\\test_project\\test_project"
   ],
-  "SelectedNode": "\\C:\\Users\\Ar\\Desktop\\My_test_second",
+  "SelectedNode": "\\test_project",
   "PreviewInSolutionExplorer": false
 }
